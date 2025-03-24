@@ -21,7 +21,7 @@ image::restore-restore-complete.png[]
 [TIP]
 .Restore Progress
 ====
-The restore may take around 10 minutes to complete.  If you would like to monitor progress of the restore, click *Trilio Backups -> Overview* and monitor the *Activity* section for the progress of *restore-1*.
+The restore may take around 10 minutes to complete.  If you would like to monitor the progress of the restore, click *Trilio Backups -> Overview* and monitor the *Activity* section for the progress of *restore-1*.
 
 image::restore-restore-progress.png[]
 ====
@@ -29,7 +29,7 @@ image::restore-restore-progress.png[]
 == Validating the Restore
 When the restore is complete, we want to ensure that our restore contains all the files we persisted in the backup.
 
-. On the left menu, click on *Virtualization -> VirtualMachines* and on the *Project* drown down, ensure the project *vmrestored* is selected.
+. On the left menu, click on *Virtualization -> VirtualMachines* and on the *Project* drop-down, ensure the project *vmrestored* is selected.
 . Notice that the Virtual Machines have been restored in your new OpenShift Project.
 +
 image::restore-vm-running.png[]
