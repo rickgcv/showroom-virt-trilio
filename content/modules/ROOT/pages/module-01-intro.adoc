@@ -23,7 +23,7 @@ Trilio’s Continuous Recovery & Restore capability enables fast data recovery, 
 * Curate Data from Edge Environments
 
 === Target Browsing and Restore Flexibility
-Enables browsing and restoring backups across different clusters, simplifying disaster recovery, application migration, efficient Testing and development, consolidated backup storage and unified backup management (single pane of glass). Browse backups from multiple sources, and restore to any cluster.
+Enables browsing and restoring backups across different clusters, simplifying disaster recovery, application migration, efficient testing and development, consolidated backup storage and unified backup management (single pane of glass). Browse backups from multiple sources, and restore to any cluster.
 
 .*Goals*
 
