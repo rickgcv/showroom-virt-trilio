@@ -16,7 +16,7 @@ In this demo we will explore many common management activities that virtual admi
 
 *Virtual Machine Administrators* -- Those responsible for day to day management of virtual guests in OpenShift Virtualization. These users will often find themselves responsible for backup up and restoring virtual guests and the applications running within.
 
-*Virtual Infrastructure Administrators* -- Those responsible for the physical infrastructure hosting the Backup targets. These users will be responsible for physical hardware, storage, and networking changes to the environment, that will esnure the successful restoration of virtual machine resources.
+*Virtual Infrastructure Administrators* -- Those responsible for the physical infrastructure hosting the Backup targets. These users will be responsible for physical hardware, storage, and networking changes to the environment, that will ensure the successful restoration of virtual machine resources.
 
 
 == What Content Is Covered In The Roadshow?
@@ -29,15 +29,14 @@ These are the *four* main sections that will be covered:
 
 * _Creating Backup Plans_: In this section, an administrator will learn how to create a backup plan and creating backups on a schedule.
 
-* _Creating Restores_: In this sectin, an administrator will learn how to restore a previous back up.
+* _Creating Restores_: In this section, an administrator will learn how to restore a previous back up.
 
 == Version Information
 
 This edition of the  OpenShift Virtualization Roadshow has been developed using the following software versions:
 
-* Red Hat OpenShift 4.16
-* Red Hat OpenShift Virtualization 4.16
-* Red Hat OpenShift Data Foundation 4.16
-* Red Hat OADP 1.4
-* Trilio 4.0.x
+* Red Hat OpenShift 4.18
+* Red Hat OpenShift Virtualization 4.18
+* Red Hat OpenShift Data Foundation 4.18
+* Trilio 5.0.x
 
