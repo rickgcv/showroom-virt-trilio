@@ -9,7 +9,7 @@ Trilio makes it easy to automatically create your backup plans and all required 
 == Backup Validation
 Before we create a backup, we want to ensure that our backup is storing our latest files in the target.  To ensure this is being done, we will create a file on one of the virtual machines to validate the backup.
 
-. On the left menu, click on *Virtualization -> VirtualMachines* and on the *Project* drown down, ensure the project *vmimported* is selected.
+. On the left menu, click on *Virtualization -> VirtualMachines* and on the *Project* drop-down, ensure the project *vmimported* is selected.
 . Click on *winweb01*
 . Click on the *console* tab
 . On the VNC console, enter *15* and hit *enter*
@@ -45,7 +45,7 @@ image::backup-backup-created.png[]
 [TIP]
 .Backup Progress
 ====
-The backup may take around 10 minutes to complete.  If you would like to monitor progress of the backup, click *Trilio Backups -> Overview* and monitor the *Activity* section for the progress of *backup-1*.
+The backup may take around 10 minutes to complete.  If you would like to monitor the progress of the backup, click *Trilio Backups -> Overview* and monitor the *Activity* section for the progress of *backup-1*.
 
 image::backup-backup-progress.png[]
 ====
